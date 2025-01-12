@@ -28,4 +28,4 @@ Welcome to my GitHub page.
 <hr/>
 
 
- :star: By [HillaryOkello](https://github.com/elijah1israel)
+ :star: By [Elijah Israel](https://github.com/elijah1israel)
