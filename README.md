@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Elijah Israel Mukisa!  
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/elijah1israel)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hillary-okello-b173101a4/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mukisa-elijah-9a7bb01a8)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/elijahisrael27)
 
 Welcome to my GitHub page! 🚀  
