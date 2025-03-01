@@ -1,6 +1,6 @@
 <!--Banner-->
 
-![banner](https://github.com/Eddievin/Eddievin/assets/49716569/27f2dbd9-881c-4951-b069-1e4c247bcb9c)
+![banner](https://www.pixelstalk.net/wp-content/uploads/2016/05/Hd-Laptop-wallpapers.jpg)
 
 <!--Night Owl image-->
 <div>
@@ -13,13 +13,13 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Web and mobile apps Dev. ❄️. React 💎 TypeScript 📉. GraphQL ⛓ Blockchain | Currently in china learning Chinese language, Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">Web and mobile apps Dev. ❄️. React 💎 TypeScript 📉. GraphQL ⛓ Blockchain | Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I am Passionate about large LLMs
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://eddiethokerunga.netlify.app) for more details about me.
+- 💻 Visit my [Portfolio](https://elijahisrael.netlify.app) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -90,19 +90,19 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/edt45" target="_blank">
+ <a href="https://www.linkedin.com/in/mukisa-elijah-9a7bb01a8" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:thokerunga200@gmail.com" target="_blank">
+<a href="mailto:mukisaelijah293@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=thokerunga200@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/eddievin256" target="_blank">
+<a href="https://www.instagram.com/elijahisrael" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/edievin256" target="_blank">
+<a href="https://twitter.com/elijahisrael27" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -110,7 +110,7 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://www.buymeacoffee.com/eddievin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<a href="https://buymeacoffee.com/elijahisrael" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 
