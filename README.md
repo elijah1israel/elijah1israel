@@ -81,7 +81,7 @@ AI platform built on large language models for intelligent automation, natural l
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijah1israel&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=c9d1d9" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elijah1israel&theme=tokyo-night&hide_border=true&bg_color=00000000&color=a78bfa&line=302b63&point=a78bfa" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elijah1israel&theme=tokyo-night&hide_border=true&color=a78bfa&line=7c3aed&point=a78bfa" />
 </p>
 
 ---
