@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Elijah%20Israel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20%26%20Web3%20Builder&descAlignY=58&descAlign=50&descSize=18&descColor=a78bfa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=302b63&height=200&section=header&text=Elijah%20Israel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20AI%20%26%20Web3%20Builder&descAlignY=58&descAlign=50&descSize=18&descColor=a78bfa" />
 </p>
 
 <br/>
@@ -23,39 +23,6 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=elijah1israel&label=Profile+Views&color=302b63&style=for-the-badge" />
 </p>
-
----
-
-## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ClaimSug Portal
-**Production · Healthcare**
-
-End-to-end claims management system for healthcare providers — handling submissions, document workflows, and real-time insurance processing at scale.
-
-**[portal.claimsug.com](https://portal.claimsug.com)**
-
-`React` `TypeScript` `Node.js` `PostgreSQL` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-### Keti AI
-**Production · Artificial Intelligence**
-
-AI platform built on large language models for intelligent automation, natural language workflows, and cross-system API integrations.
-
-**[ketiai.com](https://ketiai.com)**
-
-`Python` `FastAPI` `React` `LLM APIs` `Cloud Infrastructure`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -87,5 +54,5 @@ AI platform built on large language models for intelligent automation, natural l
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=302b63&height=100&section=footer" />
 </p>
